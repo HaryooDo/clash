@@ -14,6 +14,10 @@ DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,124.244.79.28/32,no-resolve
+IP-CIDR,205.198.64.117/32,no-resolve
+IP-CIDR,138.199.5.192/32,no-resolve
+IP-CIDR,66.42.76.42/32,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
@@ -26,10 +30,7 @@ IP-CIDR,223.6.6.6/32,no-resolve
 IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
-IP-CIDR,124.244.79.28/32,no-resolve
-IP-CIDR,205.198.64.117/32,no-resolve
-IP-CIDR,138.199.5.192/32,no-resolve
-IP-CIDR,66.42.76.42/32,no-resolve
+
 
 # 360
 DOMAIN-SUFFIX,360.com
