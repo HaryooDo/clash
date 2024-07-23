@@ -13,7 +13,6 @@ DOMAIN-SUFFIX,steamserver.net
 DOMAIN-KEYWORD,baidu
 
 # IP段匹配
-IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,124.244.79.28/32,no-resolve
 IP-CIDR,205.198.64.117/32,no-resolve
 IP-CIDR,138.199.5.192/32,no-resolve
